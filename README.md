@@ -6,7 +6,7 @@
 - Create files and app entry
 - Create git repo
 
-** "If you wish to make a~n~ ~apple pie~ React App from scratch, you must first invent the universe." ** :milky_way:
+*"If you wish to make a~n~ ~apple pie~ React App from scratch, you must first invent the universe."* :milky_way:
 
 
 
