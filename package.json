@@ -9,8 +9,12 @@
   "author": "",
   "license": "MIT",
   "description": "",
-  "dependencies": {
+  "dependencies": {    
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.7",
+    "@vitejs/plugin-react": "^4.3.1"
   }
 }
