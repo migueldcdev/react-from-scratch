@@ -1,20 +1,24 @@
 {
-  "name": "react",
+  "name": "react-from-scratch",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueldcdev/react-from-scratch.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "MIT",
-  "description": "",
-  "dependencies": {    
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migueldcdev/react-from-scratch/issues"
+  },
+  "homepage": "https://github.com/migueldcdev/react-from-scratch#readme",
+  "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
-    "vite": "^5.4.7",
-    "@vitejs/plugin-react": "^4.3.1"
   }
 }
