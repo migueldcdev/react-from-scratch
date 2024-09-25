@@ -27,7 +27,9 @@ module.exports = {
         new HtmlWebpackPlugin({
             template: './public/index.html'
         }),
-        new SourceMapDevToolPlugin({            
+        new SourceMapDevToolPlugin({
+            filename: '[file].map[query]',
+            include: /\.js$/,
             test: /\.js$/,
             exclude: /node_modules/,
         })
